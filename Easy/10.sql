@@ -1,6 +1,6 @@
 -- Biggest Single Number
 
-select max(num) as num
+select max(num) as num 
 from(
     select num from mynumbers
     group by num
