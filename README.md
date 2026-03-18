@@ -1,7 +1,20 @@
-# My SQL Learning Journey
-Daily practice and documentation of my SQL skills.
+# 🚀 LeetCode SQL Solutions
 
-# Folder Structure
-- `/Basics`: Fundamental queries.
-- `/Intermediate`: Joins and Subqueries.
-- `/Problems`: Solved problems from LeetCode/HackerRank 
+A collection of optimized solutions for LeetCode SQL problems, organized by difficulty.
+
+---
+
+### 📊 Progress
+| Difficulty | Solved | Target |
+| :--- | :---: | :---: |
+| 🟢 Easy | 0 | 50 |
+| 🟡 Medium | 0 | 30 |
+| 🔴 Hard | 0 | 10 |
+
+---
+
+### 📂 Structure
+```text
+├── 📂 Easy
+├── 📂 Medium
+└── 📂 Hard
